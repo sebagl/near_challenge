@@ -1,0 +1,32 @@
+{
+	"users": [
+		{
+			"id": "john.d",
+			"full_name": "John Doe",
+			"email": "johndoe@abc.com",
+			"password": "123456",
+			"verification": "219220"
+		},
+		{
+			"id": "jane.d",
+			"full_name": "Jane Doe",
+			"email": "janedoe@abc.com",
+			"password": "123456",
+			"verification": "219220"
+		},
+		{
+			"id": "alice.d",
+			"full_name": "Alice Doe",
+			"email": "alicedoe@abc.com",
+			"password": "123456",
+			"verification": "219220"
+		},
+		{
+			"id": "bob.d",
+			"full_name": "Bob Doe",
+			"email": "bobdoe@abc.com",
+			"password": "123456",
+			"verification": "219220"
+		}
+	]
+}
